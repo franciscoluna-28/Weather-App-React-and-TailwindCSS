@@ -13,3 +13,9 @@ Project made for learning purposes using React, Fetch API and TailwindCSS. What 
 🛠️ Learned more about UI design (Gradients)
 
 🛠️ Learned how to use Headless UI for handling conditional rendering animation
+
+What I could've done better here is:
+
+✔️ Better conditional rendering using the ternary operator
+
+✔️ Isolating components in a better way
