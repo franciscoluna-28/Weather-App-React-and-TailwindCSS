@@ -22,3 +22,5 @@ What I could've done better here is:
 ✔️ Better conditional rendering using the ternary operator
 
 ✔️ Isolating components in a better way
+
+Feel free to check the project in here! https://weather-app-tailwind-react.netlify.app
